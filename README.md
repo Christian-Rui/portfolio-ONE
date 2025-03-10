@@ -2,7 +2,7 @@
 
 Este é o meu portfólio pessoal para apresentar meus projetos e habilidades, desenvolvido no curso de HTML e CSS da Alura, durante o Programa ONE da Oracle, 
 
-
+![Captura-portfolio](https://github.com/user-attachments/assets/e2897343-b3ef-4f83-8911-0b5f64f43362)
 
 ## Link para Acessar a Página do Projeto
 
